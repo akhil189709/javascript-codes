@@ -37,6 +37,32 @@ let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
 
+/*****************************OPERATIONS*************************** */
+
+let value = 3
+let negValue = -value
+console.log(negValue);
+
+console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**2);
+console.log(2/2);
+console.log(2%2);
+
+
+let str1 = "akhil"
+let str2 = "kumar"
+let str3 = str1+str2
+console.log(str3);
+
+console.log("1" + 2);  // here the whole is converted to the string
+console.log("1" + "2");
+console.log(1 + 2 + "2");///the first two numbers will be added here
+console.log("1" + 2 + 3);/// here the all the numbers are converted to the string
+
+
+
 
 
 
