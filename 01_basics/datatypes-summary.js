@@ -36,3 +36,4 @@ console.log(typeof myFunction);
 console.log(typeof heroes);
 console.log(typeof id);
 
+
